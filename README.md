@@ -1,3 +1,25 @@
+> [!TIP]
+> Read this first.
+
+
+# Welcome to My SQL Portfolio
+
+### This portfolio showcases my expertise in SQL and database management. It includes projects that highlight my ability to  analyze data, design and optimize databases, and create insightful reports to solve real-world problems. Each project demonstrates specific skills, such as:
+
+> * Writing complex queries
+> * Data cleaning and transformation
+> * Creating and managing relational databases
+> * Performance optimization
+> * Data visualization (if applicable)
+
+Stay tuned as I add more projects to this portfolio to reflect my ongoing learning and contributions in the field of data analysis and database management.
+
+
+
+
+
+
+
 CREATE TABLE superstore (
     item_id INTEGER PRIMARY KEY,
     item_name TEXT,
